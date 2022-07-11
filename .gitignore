@@ -1,0 +1,7 @@
+src/build**
+src/QtPrism/bin/*Debug/
+src/QtPrism/prismBootloader/
+src/QtPrism/prismCore/
+src/QtPrism/test/
+src/QtPrism/QtPrism.pro.user**
+src/QtPrism/prismApp/android/libs**
