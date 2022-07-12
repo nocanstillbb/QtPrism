@@ -5,3 +5,4 @@ src/QtPrism/prismCore/
 src/QtPrism/test/
 src/QtPrism/QtPrism.pro.user**
 src/QtPrism/prismApp/android/libs**
+**.DS_Store
